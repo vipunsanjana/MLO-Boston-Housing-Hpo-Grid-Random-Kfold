@@ -23,7 +23,7 @@ We compare **Lasso, Ridge, and ElasticNet Regression** with **Grid Search** and 
 ## 📂 Project Structure
 
 ```
-MLO-Boston-Housing-Hpo-Grid-Random/
+MLO-Boston-Housing-Hpo-Grid-Random-Kfold/
 │── MLO-Hyperparameter-Tuning.ipynb   # Main Python script with models and optimization
 │── data/
 │    └── Boston.CSV            # Dataset file
